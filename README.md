@@ -1,7 +1,6 @@
 # Daxiangling research (August 2024)
 
-Research code and figures from the Daxiangling nature reserve project. Imported from the [Google Drive folder](https://drive.google.com/drive/folders/1_2TljEDBy0eGqUu4hS2cXmysnedAhjhv).
-
+Research code and figures from the Daxiangling nature reserve project. 
 ## Files
 
 - `Comparison_of_Dual_Species_Actvity_Rhythm.R`
